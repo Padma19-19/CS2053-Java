@@ -19,4 +19,5 @@ public class Lab2 {
             System.out.println("Email: " + email);
         }
     }
+
 }
